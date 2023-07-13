@@ -1,0 +1,1 @@
+A REST API contains information about food outlets across multiple cities. Given the city name, and maximum cost for 2 persons, the goal is to use the API to get the list of food outlets that belong to this city and have an estimated cost less than or equal to given cost. The API returns paginated data.
